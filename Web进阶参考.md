@@ -2,5 +2,5 @@
 >[web应用组件化（一）](https://github.com/xufei/blog/issues/6)   
 [web应用组件化（二）](https://github.com/xufei/blog/issues/7)
 
- ### 于波
+ ### [于波](www.baidu.com)
  ceshi
