@@ -2,7 +2,8 @@
 ### 日期类
 1. [flatpickr](https://github.com/chmln/flatpickr)
     ![image](http://odzy4k615.bkt.clouddn.com/flatpickr.png)
-1. xx
+1. [moment.js](http://momentjs.com/) 日期处理javascript库   
+    ![image](http://i2.bvimg.com/608238/14ae5f55eb3fc342.png)
 
 
 
